@@ -77,6 +77,6 @@ app/src/main/java/com/bodyrecord/app/
 
 构建版本依据 [Android 官方 AGP 8.9 兼容表](https://developer.android.com/build/releases/agp-8-9-0-release-notes) 固定；Compose 编译器插件与 Kotlin 同版本，参考 [Compose 官方设置说明](https://developer.android.com/develop/ui/compose/setup-compose-dependencies-and-compiler)。
 
-## GitHub 自动构建
+## 本地打包与源码提交
 
-源码提交范围、忽略规则、打 tag 发包方式和签名说明见 [docs/CI.md](docs/CI.md)。推送任意 tag 后自动检查并生成 APK，可在 [Releases](https://github.com/yzh-2002/BodyRecord/releases) 或 [Actions](https://github.com/yzh-2002/BodyRecord/actions) 下载。云端默认使用临时调试签名；覆盖本地版前需配置同一签名的加密 Secret。
+GitHub Actions 工作流已移除，后续使用 `./scripts/build.ps1` 本地构建。当前安装包为 `dist/BodyRecord-1.3.0-debug.apk`，Gradle 输出为 `app/build/outputs/apk/debug/app-debug.apk`。源码提交范围、忽略规则和签名说明见 [docs/BUILDING.md](docs/BUILDING.md)。已有 [v1.3.0 Release](https://github.com/yzh-2002/BodyRecord/releases/tag/v1.3.0) 保留供下载。
