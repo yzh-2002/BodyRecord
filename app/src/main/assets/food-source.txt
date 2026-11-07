@@ -1,0 +1,14 @@
+USDA FoodData Central, SR Legacy release (April 2018).
+Source: https://fdc.nal.usda.gov/download-datasets/
+License: public domain / CC0, https://fdc.nal.usda.gov/api-guide/
+
+The app bundles a curated subset of 27 generic foods for offline reference.
+Values are grams of carbohydrate by difference (nutrient 1005), protein
+(1003), and total fat (1004), per 100 grams edible portion, preserving the
+source's weighed/prepared state. The Chinese labels and explanatory text
+are app-authored. Exact FDC IDs, source names, and archive checksum are
+recorded in docs/food-source-manifest.json.
+
+The body-weight intake reference is separately transcribed from the user's
+provided image. It is a coefficient display and multiplication tool, not a
+nutritional-needs estimate, calorie target, or automatic diet adjustment.

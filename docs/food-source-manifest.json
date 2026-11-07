@@ -1,0 +1,148 @@
+{
+  "source": "USDA FoodData Central SR Legacy, April 2018",
+  "download": "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_sr_legacy_food_csv_2018-04.zip",
+  "archiveSha256": "b80817294b8850530aaedf2e515c02593b1824f763a0ff356e5c2081643e6fd0",
+  "nutrientIds": {
+    "carbs": 1005,
+    "protein": 1003,
+    "fat": 1004
+  },
+  "basis": "100 g edible portion; carbohydrate by difference",
+  "foods": [
+    {
+      "fdcId": 169757,
+      "sourceName": "Rice, white, long-grain, regular, unenriched, cooked without salt",
+      "chineseName": "白米饭"
+    },
+    {
+      "fdcId": 169704,
+      "sourceName": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",
+      "chineseName": "糙米饭"
+    },
+    {
+      "fdcId": 173904,
+      "sourceName": "Cereals, oats, regular and quick, not fortified, dry",
+      "chineseName": "燕麦片"
+    },
+    {
+      "fdcId": 168484,
+      "sourceName": "Sweet potato, cooked, boiled, without skin",
+      "chineseName": "红薯"
+    },
+    {
+      "fdcId": 170440,
+      "sourceName": "Potatoes, boiled, cooked without skin, flesh, without salt",
+      "chineseName": "土豆"
+    },
+    {
+      "fdcId": 172688,
+      "sourceName": "Bread, whole-wheat, commercially prepared",
+      "chineseName": "全麦面包"
+    },
+    {
+      "fdcId": 173944,
+      "sourceName": "Bananas, raw",
+      "chineseName": "香蕉"
+    },
+    {
+      "fdcId": 169999,
+      "sourceName": "Corn, sweet, yellow, cooked, boiled, drained, without salt",
+      "chineseName": "甜玉米粒"
+    },
+    {
+      "fdcId": 171477,
+      "sourceName": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+      "chineseName": "鸡胸肉"
+    },
+    {
+      "fdcId": 173424,
+      "sourceName": "Egg, whole, cooked, hard-boiled",
+      "chineseName": "水煮鸡蛋"
+    },
+    {
+      "fdcId": 171956,
+      "sourceName": "Fish, cod, Atlantic, cooked, dry heat",
+      "chineseName": "鳕鱼"
+    },
+    {
+      "fdcId": 171998,
+      "sourceName": "Fish, salmon, Atlantic, wild, cooked, dry heat",
+      "chineseName": "三文鱼"
+    },
+    {
+      "fdcId": 175180,
+      "sourceName": "Crustaceans, shrimp, cooked",
+      "chineseName": "熟虾仁"
+    },
+    {
+      "fdcId": 168634,
+      "sourceName": "Beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled",
+      "chineseName": "瘦牛肉"
+    },
+    {
+      "fdcId": 172475,
+      "sourceName": "Tofu, raw, firm, prepared with calcium sulfate",
+      "chineseName": "北豆腐（硬豆腐参考）"
+    },
+    {
+      "fdcId": 173432,
+      "sourceName": "Milk, nonfat, fluid, without added vitamin A and vitamin D (fat free or skim)",
+      "chineseName": "脱脂牛奶"
+    },
+    {
+      "fdcId": 170894,
+      "sourceName": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)",
+      "chineseName": "原味脱脂希腊酸奶"
+    },
+    {
+      "fdcId": 174271,
+      "sourceName": "Soybeans, mature cooked, boiled, without salt",
+      "chineseName": "熟黄豆"
+    },
+    {
+      "fdcId": 171413,
+      "sourceName": "Oil, olive, salad or cooking",
+      "chineseName": "橄榄油"
+    },
+    {
+      "fdcId": 171411,
+      "sourceName": "Oil, soybean, salad or cooking",
+      "chineseName": "大豆油"
+    },
+    {
+      "fdcId": 170567,
+      "sourceName": "Nuts, almonds",
+      "chineseName": "杏仁"
+    },
+    {
+      "fdcId": 170187,
+      "sourceName": "Nuts, walnuts, english",
+      "chineseName": "核桃仁"
+    },
+    {
+      "fdcId": 173806,
+      "sourceName": "Peanuts, all types, dry-roasted, without salt",
+      "chineseName": "花生仁"
+    },
+    {
+      "fdcId": 170556,
+      "sourceName": "Seeds, pumpkin and squash seed kernels, dried",
+      "chineseName": "南瓜籽仁"
+    },
+    {
+      "fdcId": 170562,
+      "sourceName": "Seeds, sunflower seed kernels, dried",
+      "chineseName": "葵花籽仁"
+    },
+    {
+      "fdcId": 171705,
+      "sourceName": "Avocados, raw, all commercial varieties",
+      "chineseName": "牛油果"
+    },
+    {
+      "fdcId": 172470,
+      "sourceName": "Peanut butter, smooth style, without salt",
+      "chineseName": "原味花生酱"
+    }
+  ]
+}

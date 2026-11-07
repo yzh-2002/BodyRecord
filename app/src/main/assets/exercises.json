@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "builtin_machine_pulldown",
+    "name": "器械下拉",
+    "group": "背",
+    "pattern": "下拉",
+    "difficulty": "容易",
+    "equipment": "固定器械",
+    "description": "器械下拉是背分类中的下拉动作，使用固定器械完成。",
+    "steps": [
+      "调节座椅和压腿垫，坐稳后握住手柄。",
+      "让手肘向身体两侧下方移动，将手柄拉向上胸附近。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持躯干稳定，避免用后仰和摆动借力。",
+    "demoAsset": "ecpY0rH.gif",
+    "demoSource": "Reverse-Grip Machine Lat Pulldown",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_machine_row",
+    "name": "器械划船",
+    "group": "背",
+    "pattern": "划船",
+    "difficulty": "容易",
+    "equipment": "固定器械",
+    "description": "器械划船是背分类中的划船动作，使用固定器械完成。",
+    "steps": [
+      "调好胸垫和座椅，双脚踩稳，握住手柄。",
+      "手肘向后移动，将手柄拉向躯干两侧。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "胸部保持支撑，不要耸肩或猛拉。",
+    "demoAsset": "7I6LNUG.gif",
+    "demoSource": "Machine Seated Row",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_seated_cable_row",
+    "name": "坐姿钢线划船",
+    "group": "背",
+    "pattern": "划船",
+    "difficulty": "容易",
+    "equipment": "绳索器械",
+    "description": "坐姿钢线划船是背分类中的划船动作，使用绳索器械完成。",
+    "steps": [
+      "坐稳并踩住踏板，微屈膝，握住把手。",
+      "保持躯干稳定，将把手拉向腹部附近。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "避免用大幅度前后摇摆完成动作。",
+    "demoAsset": "fUBheHs.gif",
+    "demoSource": "cable seated row",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_lat_pulldown",
+    "name": "高位下拉",
+    "group": "背",
+    "pattern": "下拉",
+    "difficulty": "一般",
+    "equipment": "绳索器械",
+    "description": "高位下拉是背分类中的下拉动作，使用绳索器械完成。",
+    "steps": [
+      "调整压腿垫，坐稳后双手握杆。",
+      "向下拉动横杆至上胸附近，再控制回放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "采用颈前路线，保持肩部舒适和动作可控。",
+    "demoAsset": "RVwzP10.gif",
+    "demoSource": "cable pulldown",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_pullup",
+    "name": "引体向上",
+    "group": "背",
+    "pattern": "下拉",
+    "difficulty": "一般",
+    "equipment": "单杠 / 助力器械",
+    "description": "引体向上是背分类中的下拉动作，使用单杠 / 助力器械完成。",
+    "steps": [
+      "握稳单杠，身体悬垂，收紧躯干。",
+      "向下拉动手肘，使身体向杠靠近。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "可使用助力器械或弹力带减重，避免摆荡借力。",
+    "demoAsset": "lBDjFxJ.gif",
+    "demoSource": "pull-up",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_rack_pull",
+    "name": "半程硬拉",
+    "group": "背",
+    "pattern": "硬拉",
+    "difficulty": "困难",
+    "equipment": "杠铃 / 深蹲架",
+    "description": "半程硬拉是背分类中的硬拉动作，使用杠铃 / 深蹲架完成。",
+    "steps": [
+      "将杠铃置于安全架上，屈髋握杠并稳定躯干。",
+      "以伸髋站起带动杠铃上移，再回到安全架。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "先掌握髋铰链，保持杠铃靠近身体，不用腰部猛拉。",
+    "demoAsset": "za9Ni4z.gif",
+    "demoSource": "barbell rack pull",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_barbell_row",
+    "name": "杠铃划船",
+    "group": "背",
+    "pattern": "划船",
+    "difficulty": "困难",
+    "equipment": "杠铃",
+    "description": "杠铃划船是背分类中的划船动作，使用杠铃完成。",
+    "steps": [
+      "屈髋俯身，双脚站稳，握杠并保持背部自然。",
+      "躯干角度稳定，向后拉肘，将杠铃拉向躯干。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "不通过反复起身借力，使用能控制的重量。",
+    "demoAsset": "eZyBC3j.gif",
+    "demoSource": "barbell bent over row",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_dumbbell_row",
+    "name": "哑铃划船",
+    "group": "背",
+    "pattern": "划船",
+    "difficulty": "困难",
+    "equipment": "哑铃 / 训练凳",
+    "description": "哑铃划船是背分类中的划船动作，使用哑铃 / 训练凳完成。",
+    "steps": [
+      "屈髋俯身并稳定支撑，手臂自然下垂。",
+      "将哑铃沿身体侧方上拉，手肘向后移动。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "减少躯干旋转和耸肩，左右侧分别控制。",
+    "demoAsset": "BJ0Hz5L.gif",
+    "demoSource": "dumbbell bent over row",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_tbar_row",
+    "name": "T杠划船",
+    "group": "背",
+    "pattern": "划船",
+    "difficulty": "困难",
+    "equipment": "T杠 / 划船器械",
+    "description": "T杠划船是背分类中的划船动作，使用T杠 / 划船器械完成。",
+    "steps": [
+      "踩稳踏板并握紧手柄，按器械设置支撑躯干。",
+      "将手柄向躯干方向拉近，手肘向后移动。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "不同器械的支撑形式不同，先调好胸垫和握距。",
+    "demoAsset": "aaXr7ld.gif",
+    "demoSource": "Machine T Bar Row",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_machine_chest_press",
+    "name": "器械推胸",
+    "group": "胸",
+    "pattern": "推胸",
+    "difficulty": "容易",
+    "equipment": "固定器械",
+    "description": "器械推胸是胸分类中的推胸动作，使用固定器械完成。",
+    "steps": [
+      "调节座椅，使手柄处于胸部附近，背部贴稳。",
+      "将手柄向前推出，再控制回到起始位置。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "手腕与前臂保持稳定，肩部不要向前耸起。",
+    "demoAsset": "DOoWcnA.gif",
+    "demoSource": "Machine Chest Press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_pec_deck",
+    "name": "蝴蝶机夹胸",
+    "group": "胸",
+    "pattern": "夹胸",
+    "difficulty": "容易",
+    "equipment": "蝴蝶机",
+    "description": "蝴蝶机夹胸是胸分类中的夹胸动作，使用蝴蝶机完成。",
+    "steps": [
+      "调节座椅和起始角度，背部贴稳，手臂置于手柄或垫上。",
+      "沿器械轨迹向身体前方合拢双臂。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "不追求过大的向后展开幅度，肩部保持舒适。",
+    "demoAsset": "v3xmPAR.gif",
+    "demoSource": "Machine Seated Fly",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_cable_fly",
+    "name": "龙门架夹胸",
+    "group": "胸",
+    "pattern": "夹胸",
+    "difficulty": "容易",
+    "equipment": "龙门架 / 绳索",
+    "description": "龙门架夹胸是胸分类中的夹胸动作，使用龙门架 / 绳索完成。",
+    "steps": [
+      "调节滑轮位置，双脚错步站稳，双手握把。",
+      "保持肘部微屈，让双臂向胸前合拢。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "控制回放，避免通过身体前冲拉动配重。",
+    "demoAsset": "0CXGHya.gif",
+    "demoSource": "Cable Crossover",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_barbell_bench",
+    "name": "杠铃卧推",
+    "group": "胸",
+    "pattern": "平板推胸",
+    "difficulty": "一般",
+    "equipment": "杠铃 / 平板凳",
+    "description": "杠铃卧推是胸分类中的平板推胸动作，使用杠铃 / 平板凳完成。",
+    "steps": [
+      "躺稳于平板凳，双脚踩实，双手握稳杠铃。",
+      "控制下放至胸部附近，再向上推起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "先设置安全杠或安排保护，不在失控时继续尝试。",
+    "demoAsset": "EIeI8Vf.gif",
+    "demoSource": "barbell bench press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_dumbbell_bench",
+    "name": "哑铃卧推",
+    "group": "胸",
+    "pattern": "平板推胸",
+    "difficulty": "一般",
+    "equipment": "哑铃 / 平板凳",
+    "description": "哑铃卧推是胸分类中的平板推胸动作，使用哑铃 / 平板凳完成。",
+    "steps": [
+      "躺稳于平板凳，双脚踩实，将哑铃置于胸部两侧。",
+      "双臂向上推起哑铃，再控制下放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "左右手同步控制，避免哑铃相撞或过度下放。",
+    "demoAsset": "SpYC0Kp.gif",
+    "demoSource": "dumbbell bench press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_smith_bench",
+    "name": "史密斯卧推",
+    "group": "胸",
+    "pattern": "平板推胸",
+    "difficulty": "一般",
+    "equipment": "史密斯机 / 平板凳",
+    "description": "史密斯卧推是胸分类中的平板推胸动作，使用史密斯机 / 平板凳完成。",
+    "steps": [
+      "调整平板凳与杠铃位置，设置安全限位。",
+      "解除挂钩后控制下放，再沿轨道向上推起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "先用轻重量确认固定轨迹适合自己的肩部位置。",
+    "demoAsset": "trqKQv2.gif",
+    "demoSource": "smith bench press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_dips",
+    "name": "双杠臂屈伸",
+    "group": "胸",
+    "pattern": "臂屈伸",
+    "difficulty": "困难",
+    "equipment": "双杠 / 助力器械",
+    "description": "双杠臂屈伸是胸分类中的臂屈伸动作，使用双杠 / 助力器械完成。",
+    "steps": [
+      "双手支撑双杠，稳定肩部，身体离地。",
+      "弯曲手肘使身体下降，再伸肘推起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "只在可控且舒适的幅度内下降，必要时使用助力。",
+    "demoAsset": "XgWyAiA.gif",
+    "demoSource": "chest dip (on dip-pull-up cage)",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_incline_barbell_bench",
+    "name": "上斜杠铃卧推",
+    "group": "胸",
+    "pattern": "上斜推胸",
+    "difficulty": "一般",
+    "equipment": "杠铃 / 上斜凳",
+    "description": "上斜杠铃卧推是胸分类中的上斜推胸动作，使用杠铃 / 上斜凳完成。",
+    "steps": [
+      "调整上斜凳，双脚踩稳并握杠，设置安全保护。",
+      "控制杠铃下放至上胸附近，再向上推起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "避免过度拱腰，肩部保持稳定。",
+    "demoAsset": "3TZduzM.gif",
+    "demoSource": "barbell incline bench press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_incline_dumbbell_bench",
+    "name": "上斜哑铃卧推",
+    "group": "胸",
+    "pattern": "上斜推胸",
+    "difficulty": "一般",
+    "equipment": "哑铃 / 上斜凳",
+    "description": "上斜哑铃卧推是胸分类中的上斜推胸动作，使用哑铃 / 上斜凳完成。",
+    "steps": [
+      "躺稳于上斜凳，将哑铃置于胸部两侧。",
+      "双臂向上推起，再控制返回。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持手腕稳定，不用腰部猛顶完成动作。",
+    "demoAsset": "B3Rxp6L.gif",
+    "demoSource": "Dumbbell Incline Bench Press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_incline_smith_bench",
+    "name": "上斜史密斯卧推",
+    "group": "胸",
+    "pattern": "上斜推胸",
+    "difficulty": "一般",
+    "equipment": "史密斯机 / 上斜凳",
+    "description": "上斜史密斯卧推是胸分类中的上斜推胸动作，使用史密斯机 / 上斜凳完成。",
+    "steps": [
+      "调好上斜凳位置和安全限位，再握紧杠铃。",
+      "控制下放并沿轨道向上推起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "先确认轨迹与身体位置匹配，再逐步增加负重。",
+    "demoAsset": "5v7KYld.gif",
+    "demoSource": "smith incline bench press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_machine_shoulder_press",
+    "name": "器械推举",
+    "group": "肩前中束",
+    "pattern": "推举",
+    "difficulty": "容易",
+    "equipment": "固定器械",
+    "description": "器械推举是肩前中束分类中的推举动作，使用固定器械完成。",
+    "steps": [
+      "调节座椅，背部贴稳，握住肩部两侧的手柄。",
+      "将手柄向上推起，再控制下放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "避免耸肩和过度挺腰，保持肩部舒适。",
+    "demoAsset": "CggQhII.gif",
+    "demoSource": "Machine Military Press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_smith_shoulder_press",
+    "name": "史密斯推举",
+    "group": "肩前中束",
+    "pattern": "推举",
+    "difficulty": "容易",
+    "equipment": "史密斯机 / 训练凳",
+    "description": "史密斯推举是肩前中束分类中的推举动作，使用史密斯机 / 训练凳完成。",
+    "steps": [
+      "调好凳子与轨道位置，握杠并设置安全限位。",
+      "沿颈前路线向上推起杠铃，再控制下放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "不要采用颈后路径或用腰部大幅度后仰借力。",
+    "demoAsset": "903mzG8.gif",
+    "demoSource": "smith shoulder press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_dumbbell_shoulder_press",
+    "name": "哑铃推举",
+    "group": "肩前中束",
+    "pattern": "推举",
+    "difficulty": "一般",
+    "equipment": "哑铃 / 训练凳",
+    "description": "哑铃推举是肩前中束分类中的推举动作，使用哑铃 / 训练凳完成。",
+    "steps": [
+      "坐稳或站稳，将哑铃置于肩部两侧。",
+      "向上推起哑铃，再缓慢回到起始位置。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持躯干稳定，选择能稳定控制的握法和幅度。",
+    "demoAsset": "znQUdHY.gif",
+    "demoSource": "dumbbell seated shoulder press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_barbell_shoulder_press",
+    "name": "杠铃推举",
+    "group": "肩前中束",
+    "pattern": "推举",
+    "difficulty": "一般",
+    "equipment": "杠铃",
+    "description": "杠铃推举是肩前中束分类中的推举动作，使用杠铃完成。",
+    "steps": [
+      "握杠于肩前位置，双脚踩稳并稳定躯干。",
+      "沿颈前路线将杠铃向上推起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持肋骨与骨盆稳定，避免用后仰代偿。",
+    "demoAsset": "wdRZISl.gif",
+    "demoSource": "Barbell Standing Close-Grip Military Press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_barbell_upright_row",
+    "name": "杠铃提拉",
+    "group": "肩前中束",
+    "pattern": "提拉",
+    "difficulty": "困难",
+    "equipment": "杠铃",
+    "description": "杠铃提拉是肩前中束分类中的提拉动作，使用杠铃完成。",
+    "steps": [
+      "站稳后握杠，手臂自然下垂。",
+      "在肩部舒适的范围内让手肘引导杠铃向上移动。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "不强求提得很高；若肩部不适，减小幅度或换动作。",
+    "demoAsset": "83HoW9X.gif",
+    "demoSource": "barbell upright row",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_cable_upright_row",
+    "name": "龙门架提拉",
+    "group": "肩前中束",
+    "pattern": "提拉",
+    "difficulty": "困难",
+    "equipment": "龙门架 / 绳索",
+    "description": "龙门架提拉是肩前中束分类中的提拉动作，使用龙门架 / 绳索完成。",
+    "steps": [
+      "将滑轮置于低位，握住把手，双脚站稳。",
+      "让手肘引导把手沿身体前侧向上移动。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "不要耸肩猛拉，以舒适幅度和可控重量为先。",
+    "demoAsset": "cALKspW.gif",
+    "demoSource": "cable upright row",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_dumbbell_front_raise",
+    "name": "哑铃前平举",
+    "group": "肩前中束",
+    "pattern": "前平举",
+    "difficulty": "困难",
+    "equipment": "哑铃",
+    "description": "哑铃前平举是肩前中束分类中的前平举动作，使用哑铃完成。",
+    "steps": [
+      "双脚站稳，双手握哑铃于身体前侧。",
+      "保持肘部微屈，将手臂向前抬至舒适高度。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持躯干稳定，不依赖摆动或后仰。",
+    "demoAsset": "3eGE2JC.gif",
+    "demoSource": "dumbbell front raise",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_plate_front_raise",
+    "name": "杠铃单片前平举",
+    "group": "肩前中束",
+    "pattern": "前平举",
+    "difficulty": "困难",
+    "equipment": "杠铃片",
+    "description": "杠铃单片前平举是肩前中束分类中的前平举动作，使用杠铃片完成。",
+    "steps": [
+      "双手稳握杠铃片，站稳并保持躯干稳定。",
+      "将杠铃片向前抬起，再控制下放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "确认握持牢固，避免耸肩和身体后仰。",
+    "demoAsset": "e4aFmFY.gif",
+    "demoSource": "weighted front raise",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_shortbar_front_raise",
+    "name": "短杠铃前平举",
+    "group": "肩前中束",
+    "pattern": "前平举",
+    "difficulty": "困难",
+    "equipment": "短杠铃",
+    "description": "短杠铃前平举是肩前中束分类中的前平举动作，使用短杠铃完成。",
+    "steps": [
+      "双手握稳短杠，手臂置于身体前侧。",
+      "向前抬起手臂，再缓慢放回。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "用能稳定控制的负重，不追求过高的抬举幅度。",
+    "demoAsset": "b2Uoz54.gif",
+    "demoSource": "barbell front raise",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_dumbbell_lateral_raise",
+    "name": "哑铃侧平举",
+    "group": "肩前中束",
+    "pattern": "侧平举",
+    "difficulty": "困难",
+    "equipment": "哑铃",
+    "description": "哑铃侧平举是肩前中束分类中的侧平举动作，使用哑铃完成。",
+    "steps": [
+      "双手握哑铃，手臂自然下垂，肘部微屈。",
+      "将双臂向身体两侧抬起，再控制返回。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持躯干稳定，不通过耸肩和甩动增加高度。",
+    "demoAsset": "DsgkuIt.gif",
+    "demoSource": "dumbbell lateral raise",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_cable_lateral_raise",
+    "name": "龙门架侧平举",
+    "group": "肩前中束",
+    "pattern": "侧平举",
+    "difficulty": "困难",
+    "equipment": "龙门架 / 绳索",
+    "description": "龙门架侧平举是肩前中束分类中的侧平举动作，使用龙门架 / 绳索完成。",
+    "steps": [
+      "滑轮置于低位，单手握把，站稳并稳定躯干。",
+      "手臂向侧方抬起，再控制回放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "避免身体侧摆，左右侧分别完成。",
+    "demoAsset": "goJ6ezq.gif",
+    "demoSource": "cable lateral raise",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_shortbar_lateral_raise",
+    "name": "短杠铃侧平举",
+    "group": "肩前中束",
+    "pattern": "侧平举",
+    "difficulty": "困难",
+    "equipment": "短杠铃",
+    "description": "短杠铃侧平举是肩前中束分类中的侧平举动作，使用短杠铃完成。",
+    "steps": [
+      "单手稳握合适长度的短杠，手臂自然下垂。",
+      "保持肘部微屈，向侧方抬起手臂。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "先确认器械平衡和握持安全，避免摆动借力。",
+    "demoAsset": "",
+    "demoSource": "",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_reverse_pec_deck",
+    "name": "蝴蝶机反向飞鸟",
+    "group": "肩后束",
+    "pattern": "反向飞鸟",
+    "difficulty": "容易",
+    "equipment": "蝴蝶机",
+    "description": "蝴蝶机反向飞鸟是肩后束分类中的反向飞鸟动作，使用蝴蝶机完成。",
+    "steps": [
+      "面向胸垫坐稳，调节座椅并握住手柄。",
+      "将双臂向身体两侧后方打开。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持胸部支撑，不用腰部前后晃动借力。",
+    "demoAsset": "myfUsKf.gif",
+    "demoSource": "Machine Seated Reverse Fly",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_bent_dumbbell_fly",
+    "name": "哑铃俯身飞鸟",
+    "group": "肩后束",
+    "pattern": "反向飞鸟",
+    "difficulty": "一般",
+    "equipment": "哑铃 / 训练凳",
+    "description": "哑铃俯身飞鸟是肩后束分类中的反向飞鸟动作，使用哑铃 / 训练凳完成。",
+    "steps": [
+      "屈髋俯身，或俯卧上斜凳支撑胸部，双手握哑铃下垂。",
+      "保持肘部微屈，将双臂向两侧打开。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "俯身角度保持稳定，不以甩动完成动作。",
+    "demoAsset": "EAs3xL9.gif",
+    "demoSource": "dumbbell reverse fly",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_reverse_cable_fly",
+    "name": "龙门架反向飞鸟",
+    "group": "肩后束",
+    "pattern": "反向飞鸟",
+    "difficulty": "一般",
+    "equipment": "龙门架 / 绳索",
+    "description": "龙门架反向飞鸟是肩后束分类中的反向飞鸟动作，使用龙门架 / 绳索完成。",
+    "steps": [
+      "调节滑轮并握住把手，站稳后稳定躯干。",
+      "将双臂向身体两侧后方展开。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "控制回放，不要为了拉得更远而拱腰。",
+    "demoAsset": "aqvSOQE.gif",
+    "demoSource": "Cable Crossover Reverse Fly",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_face_pull",
+    "name": "龙门架绳索面拉",
+    "group": "肩后束",
+    "pattern": "面拉",
+    "difficulty": "困难",
+    "equipment": "龙门架 / 绳索",
+    "description": "龙门架绳索面拉是肩后束分类中的面拉动作，使用龙门架 / 绳索完成。",
+    "steps": [
+      "将绳索调整至面部附近高度，握绳并站稳。",
+      "向面部方向拉近绳索，手肘向外后方移动。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持颈部和躯干稳定，采用肩部舒适的路线。",
+    "demoAsset": "ZfyAGhK.gif",
+    "demoSource": "cable standing rear delt row (with rope)",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_barbell_curl",
+    "name": "杠铃弯举",
+    "group": "肱二头",
+    "pattern": "弯举",
+    "difficulty": "容易",
+    "equipment": "杠铃",
+    "description": "杠铃弯举是肱二头分类中的弯举动作，使用杠铃完成。",
+    "steps": [
+      "双手握杠，双脚站稳，上臂自然靠近身体。",
+      "弯曲手肘将杠铃向上举起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "上臂尽量稳定，避免挺腰甩动。",
+    "demoAsset": "25GPyDY.gif",
+    "demoSource": "barbell curl",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_dumbbell_curl",
+    "name": "哑铃弯举",
+    "group": "肱二头",
+    "pattern": "弯举",
+    "difficulty": "容易",
+    "equipment": "哑铃",
+    "description": "哑铃弯举是肱二头分类中的弯举动作，使用哑铃完成。",
+    "steps": [
+      "双手握哑铃站稳，上臂自然下垂。",
+      "弯曲手肘抬起哑铃，可交替或同步进行。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持手腕稳定，不用肩部前摆完成动作。",
+    "demoAsset": "3s4NnTh.gif",
+    "demoSource": "dumbbell standing biceps curl",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_cable_curl",
+    "name": "龙门架弯举",
+    "group": "肱二头",
+    "pattern": "弯举",
+    "difficulty": "容易",
+    "equipment": "龙门架 / 绳索",
+    "description": "龙门架弯举是肱二头分类中的弯举动作，使用龙门架 / 绳索完成。",
+    "steps": [
+      "低位滑轮接好把手，站稳并握紧。",
+      "保持上臂稳定，弯曲手肘拉起把手。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "控制回放，避免配重撞击。",
+    "demoAsset": "G08RZcQ.gif",
+    "demoSource": "cable curl",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_concentration_curl",
+    "name": "集中弯举",
+    "group": "肱二头",
+    "pattern": "弯举",
+    "difficulty": "容易",
+    "equipment": "哑铃 / 训练凳",
+    "description": "集中弯举是肱二头分类中的弯举动作，使用哑铃 / 训练凳完成。",
+    "steps": [
+      "坐稳，单侧上臂靠在大腿内侧，握住哑铃。",
+      "弯曲手肘抬起哑铃，再控制下放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "不通过躯干前后摆动改变负重。",
+    "demoAsset": "gvsWLQw.gif",
+    "demoSource": "dumbbell concentration curl",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_machine_curl",
+    "name": "器械弯举",
+    "group": "肱二头",
+    "pattern": "弯举",
+    "difficulty": "容易",
+    "equipment": "固定器械",
+    "description": "器械弯举是肱二头分类中的弯举动作，使用固定器械完成。",
+    "steps": [
+      "调节座椅，使上臂稳定放在支撑垫上。",
+      "弯曲手肘拉动器械，再控制返回。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "让器械转轴与手肘位置匹配，避免突然下放。",
+    "demoAsset": "b6hQYMb.gif",
+    "demoSource": "Machine Preacher Curl",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_preacher_curl",
+    "name": "牧师椅弯举",
+    "group": "肱二头",
+    "pattern": "弯举",
+    "difficulty": "容易",
+    "equipment": "哑铃 / 杠铃 / 牧师椅",
+    "description": "牧师椅弯举是肱二头分类中的弯举动作，使用哑铃 / 杠铃 / 牧师椅完成。",
+    "steps": [
+      "上臂置于牧师椅垫上，握住器械。",
+      "保持上臂支撑，弯曲手肘举起器械。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "底部保持控制，不在伸展位置突然加速。",
+    "demoAsset": "7D5bgLT.gif",
+    "demoSource": "dumbbell seated preacher curl",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_close_grip_bench",
+    "name": "窄距卧推",
+    "group": "肱三头",
+    "pattern": "复合推举",
+    "difficulty": "困难",
+    "equipment": "杠铃 / 平板凳",
+    "description": "窄距卧推是肱三头分类中的复合推举动作，使用杠铃 / 平板凳完成。",
+    "steps": [
+      "躺稳于平板凳，采用舒适的较窄握距并设置保护。",
+      "控制杠铃下放，再伸肘向上推起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "握距不必过窄，保持手腕和手肘位置稳定。",
+    "demoAsset": "J6Dx1Mu.gif",
+    "demoSource": "barbell close-grip bench press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_lying_barbell_extension",
+    "name": "杠铃仰卧臂屈伸",
+    "group": "肱三头",
+    "pattern": "臂屈伸",
+    "difficulty": "困难",
+    "equipment": "杠铃 / 平板凳",
+    "description": "杠铃仰卧臂屈伸是肱三头分类中的臂屈伸动作，使用杠铃 / 平板凳完成。",
+    "steps": [
+      "仰卧于训练凳，双手握杠并稳定上臂。",
+      "以手肘弯曲与伸直带动杠铃移动。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "先使用轻重量掌握控制，避免器械靠近面部时失控。",
+    "demoAsset": "h8LFzo9.gif",
+    "demoSource": "barbell lying triceps extension skull crusher",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_dumbbell_overhead_extension",
+    "name": "哑铃颈后臂屈伸",
+    "group": "肱三头",
+    "pattern": "过顶臂屈伸",
+    "difficulty": "困难",
+    "equipment": "哑铃 / 训练凳",
+    "description": "哑铃颈后臂屈伸是肱三头分类中的过顶臂屈伸动作，使用哑铃 / 训练凳完成。",
+    "steps": [
+      "坐稳或站稳，双手握稳哑铃于头部上方。",
+      "保持上臂稳定，弯曲手肘将哑铃下放后再推回。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "肩部与躯干保持稳定，不强求颈后下放深度。",
+    "demoAsset": "FQXdXzY.gif",
+    "demoSource": "dumbbells seated triceps extension",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_cable_extension",
+    "name": "龙门架绳索臂屈伸",
+    "group": "肱三头",
+    "pattern": "臂屈伸",
+    "difficulty": "一般",
+    "equipment": "龙门架 / 绳索",
+    "description": "龙门架绳索臂屈伸是肱三头分类中的臂屈伸动作，使用龙门架 / 绳索完成。",
+    "steps": [
+      "高位滑轮接好绳索，双脚站稳，上臂靠近身体。",
+      "通过伸肘向下压动绳索，再控制回放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "避免用身体重量压下配重。",
+    "demoAsset": "dU605di.gif",
+    "demoSource": "cable pushdown (with rope attachment)",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_rope_overhead_extension",
+    "name": "绳索过顶臂屈伸",
+    "group": "肱三头",
+    "pattern": "过顶臂屈伸",
+    "difficulty": "一般",
+    "equipment": "龙门架 / 绳索",
+    "description": "绳索过顶臂屈伸是肱三头分类中的过顶臂屈伸动作，使用龙门架 / 绳索完成。",
+    "steps": [
+      "握稳绳索，采用站稳且能保持躯干稳定的姿势。",
+      "在上臂稳定的前提下弯伸手肘。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持肩部舒适，避免腰部过度后仰。",
+    "demoAsset": "2IxROQ1.gif",
+    "demoSource": "cable overhead triceps extension (rope attachment)",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_straightbar_pushdown",
+    "name": "直杆下压",
+    "group": "肱三头",
+    "pattern": "下压",
+    "difficulty": "一般",
+    "equipment": "绳索器械 / 直杆",
+    "description": "直杆下压是肱三头分类中的下压动作，使用绳索器械 / 直杆完成。",
+    "steps": [
+      "高位滑轮接直杆，握杆后使上臂靠近身体。",
+      "伸直手肘向下压杆，再缓慢返回。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "上臂不要大幅前后摆动，手腕保持稳定。",
+    "demoAsset": "3ZflifB.gif",
+    "demoSource": "cable pushdown",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_leg_curl",
+    "name": "器械腿弯举",
+    "group": "腿",
+    "pattern": "后侧",
+    "difficulty": "容易",
+    "equipment": "腿弯举机",
+    "description": "器械腿弯举是腿分类中的后侧动作，使用腿弯举机完成。",
+    "steps": [
+      "按器械要求坐稳或俯卧，调好滚垫和转轴位置。",
+      "屈膝带动滚垫靠近身体，再控制返回。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "骨盆保持稳定，不用腰部反弓借力。",
+    "demoAsset": "17lJ1kr.gif",
+    "demoSource": "Machine Lying Leg Curl",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_leg_extension",
+    "name": "器械腿屈伸",
+    "group": "腿",
+    "pattern": "前侧",
+    "difficulty": "容易",
+    "equipment": "腿屈伸机",
+    "description": "器械腿屈伸是腿分类中的前侧动作，使用腿屈伸机完成。",
+    "steps": [
+      "坐稳并调好靠背、滚垫和膝部转轴位置。",
+      "伸膝抬起滚垫，再控制下放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "选择舒适的活动范围，避免突然踢起。",
+    "demoAsset": "my33uHU.gif",
+    "demoSource": "Machine Leg Extension",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_hack_squat",
+    "name": "哈克机",
+    "group": "腿",
+    "pattern": "前后侧",
+    "difficulty": "一般",
+    "equipment": "哈克深蹲机",
+    "description": "哈克机是腿分类中的前后侧动作，使用哈克深蹲机完成。",
+    "steps": [
+      "肩背贴稳器械，双脚踩稳踏板，解除保险。",
+      "屈髋屈膝下降，再沿轨道蹬起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "脚跟保持接触踏板，提前设置安全限位。",
+    "demoAsset": "Qa55kX1.gif",
+    "demoSource": "sled hack squat",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_leg_press",
+    "name": "倒蹬机",
+    "group": "腿",
+    "pattern": "前后侧",
+    "difficulty": "一般",
+    "equipment": "腿举机",
+    "description": "倒蹬机是腿分类中的前后侧动作，使用腿举机完成。",
+    "steps": [
+      "背部贴稳，双脚踩住踏板，调节座椅和安全限位。",
+      "屈膝控制回收，再蹬出踏板。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "避免骨盆卷起离开靠背，不在顶端猛锁膝。",
+    "demoAsset": "10Z2DXU.gif",
+    "demoSource": "sled 45° leg press",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_free_squat",
+    "name": "自由深蹲",
+    "group": "腿",
+    "pattern": "前侧",
+    "difficulty": "困难",
+    "equipment": "杠铃 / 深蹲架",
+    "description": "自由深蹲是腿分类中的前侧动作，使用杠铃 / 深蹲架完成。",
+    "steps": [
+      "在安全架内站稳，握稳杠铃并稳定躯干。",
+      "屈髋屈膝下降，再从脚下发力站起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "先掌握徒手模式和保护设置，采用可控深度。",
+    "demoAsset": "Gnfo4FM.gif",
+    "demoSource": "barbell high bar squat",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_lunge",
+    "name": "箭步蹲",
+    "group": "腿",
+    "pattern": "前后侧",
+    "difficulty": "困难",
+    "equipment": "自重 / 哑铃 / 杠铃",
+    "description": "箭步蹲是腿分类中的前后侧动作，使用自重 / 哑铃 / 杠铃完成。",
+    "steps": [
+      "双脚错步站稳，可先用自重练习平衡。",
+      "弯曲双膝下降，再用前侧腿支撑站起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "膝盖沿脚尖方向移动，避免失去平衡时继续加重。",
+    "demoAsset": "RRWFUcw.gif",
+    "demoSource": "dumbbell lunge",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_stiff_leg_deadlift",
+    "name": "直腿硬拉",
+    "group": "腿",
+    "pattern": "后侧",
+    "difficulty": "困难",
+    "equipment": "杠铃 / 哑铃",
+    "description": "直腿硬拉是腿分类中的后侧动作，使用杠铃 / 哑铃完成。",
+    "steps": [
+      "握稳器械站立，膝部保持轻微弯曲并稳定躯干。",
+      "向后送髋使器械下移，再伸髋站起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持背部自然和器械靠近身体，不以触地为目标。",
+    "demoAsset": "hrVQWvE.gif",
+    "demoSource": "Barbell Straight-Leg Deadlift",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_floor_crunch",
+    "name": "平板卷腹",
+    "group": "腹",
+    "pattern": "卷腹",
+    "difficulty": "一般",
+    "equipment": "垫子 / 平板凳",
+    "description": "平板卷腹是腹分类中的卷腹动作，使用垫子 / 平板凳完成。",
+    "steps": [
+      "仰卧并屈膝，双脚放稳，双手轻放于身体前方。",
+      "让上背部轻轻离开支撑面，再缓慢回落。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "不拉扯颈部，避免通过惯性完成动作。",
+    "demoAsset": "TFqbd8t.gif",
+    "demoSource": "crunch floor",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_hanging_leg_raise",
+    "name": "悬垂举腿",
+    "group": "腹",
+    "pattern": "举腿",
+    "difficulty": "困难",
+    "equipment": "单杠 / 悬垂架",
+    "description": "悬垂举腿是腹分类中的举腿动作，使用单杠 / 悬垂架完成。",
+    "steps": [
+      "握稳单杠并稳定悬垂，身体停止摆动。",
+      "屈髋抬起双腿，再控制放回。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "可先屈膝练习，避免甩腿和身体大幅摆荡。",
+    "demoAsset": "I3tsCnC.gif",
+    "demoSource": "hanging leg raise",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_machine_crunch",
+    "name": "器械卷腹",
+    "group": "腹",
+    "pattern": "卷腹",
+    "difficulty": "容易",
+    "equipment": "卷腹器械",
+    "description": "器械卷腹是腹分类中的卷腹动作，使用卷腹器械完成。",
+    "steps": [
+      "调节座椅和支撑垫，坐稳并握好手柄。",
+      "控制躯干向前卷曲，再缓慢回到起始位置。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "不只用手臂拉动器械，不让配重撞击。",
+    "demoAsset": "eXFXCY0.gif",
+    "demoSource": "Machine Seated Crunch",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_kneeling_cable_crunch",
+    "name": "龙门架跪姿卷腹",
+    "group": "腹",
+    "pattern": "卷腹",
+    "difficulty": "一般",
+    "equipment": "龙门架 / 绳索",
+    "description": "龙门架跪姿卷腹是腹分类中的卷腹动作，使用龙门架 / 绳索完成。",
+    "steps": [
+      "跪稳并握住高位绳索，固定手臂与躯干的相对位置。",
+      "控制躯干向下卷曲，再缓慢回放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "避免只做髋部前后摆动或用手臂猛拉。",
+    "demoAsset": "WW95auq.gif",
+    "demoSource": "cable kneeling crunch",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_dumbbell_bridge",
+    "name": "哑铃臀桥",
+    "group": "臀",
+    "pattern": "臀桥",
+    "difficulty": "一般",
+    "equipment": "哑铃 / 垫子",
+    "description": "哑铃臀桥是臀分类中的臀桥动作，使用哑铃 / 垫子完成。",
+    "steps": [
+      "仰卧屈膝，双脚踩实，稳妥固定髋部负重。",
+      "通过伸髋抬起骨盆，再控制下放。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "使用软垫缓冲负重，避免顶端过度反弓腰部。",
+    "demoAsset": "",
+    "demoSource": "",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_barbell_bridge",
+    "name": "杠铃臀桥",
+    "group": "臀",
+    "pattern": "臀桥",
+    "difficulty": "一般",
+    "equipment": "杠铃 / 垫子",
+    "description": "杠铃臀桥是臀分类中的臀桥动作，使用杠铃 / 垫子完成。",
+    "steps": [
+      "仰卧屈膝，双脚踩实，将有软垫保护的杠铃固定在髋部。",
+      "伸髋抬起骨盆，再缓慢回落。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "先确认杠铃位置和垫子稳定，不用腰部过度挺起。",
+    "demoAsset": "qKBpF7I.gif",
+    "demoSource": "barbell glute bridge",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_smith_bridge",
+    "name": "史密斯臀桥",
+    "group": "臀",
+    "pattern": "臀桥",
+    "difficulty": "一般",
+    "equipment": "史密斯机 / 垫子",
+    "description": "史密斯臀桥是臀分类中的臀桥动作，使用史密斯机 / 垫子完成。",
+    "steps": [
+      "调整身体与轨道位置，屈膝踩稳并设置限位。",
+      "在可控轨迹内伸髋抬起骨盆。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "先用轻重量确认路线，使用髋部软垫保护。",
+    "demoAsset": "",
+    "demoSource": "",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_dumbbell_hip_thrust",
+    "name": "哑铃臀冲",
+    "group": "臀",
+    "pattern": "臀冲",
+    "difficulty": "一般",
+    "equipment": "哑铃 / 训练凳",
+    "description": "哑铃臀冲是臀分类中的臀冲动作，使用哑铃 / 训练凳完成。",
+    "steps": [
+      "上背部靠稳训练凳，双脚踩实，固定髋部负重。",
+      "以伸髋抬起髋部，再控制下降。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持训练凳稳定，顶端不以腰部过伸增加高度。",
+    "demoAsset": "",
+    "demoSource": "",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_barbell_hip_thrust",
+    "name": "杠铃臀冲",
+    "group": "臀",
+    "pattern": "臀冲",
+    "difficulty": "一般",
+    "equipment": "杠铃 / 训练凳",
+    "description": "杠铃臀冲是臀分类中的臀冲动作，使用杠铃 / 训练凳完成。",
+    "steps": [
+      "上背部靠稳训练凳，双脚踩实，髋部杠铃加软垫保护。",
+      "伸髋抬起杠铃，再控制下降。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "固定训练凳和杠铃，不要用腰部过度反弓完成。",
+    "demoAsset": "",
+    "demoSource": "",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_smith_hip_thrust",
+    "name": "史密斯臀冲",
+    "group": "臀",
+    "pattern": "臀冲",
+    "difficulty": "一般",
+    "equipment": "史密斯机 / 训练凳",
+    "description": "史密斯臀冲是臀分类中的臀冲动作，使用史密斯机 / 训练凳完成。",
+    "steps": [
+      "调整凳子与轨道位置，上背部靠稳，设置安全限位。",
+      "双脚踩实，通过伸髋沿轨道抬起负重。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "先确认轨道与身体匹配，使用软垫保护髋部。",
+    "demoAsset": "",
+    "demoSource": "",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_machine_kickback",
+    "name": "器械后踢",
+    "group": "臀",
+    "pattern": "后踢",
+    "difficulty": "容易",
+    "equipment": "臀部后踢机",
+    "description": "器械后踢是臀分类中的后踢动作，使用臀部后踢机完成。",
+    "steps": [
+      "按器械要求站稳或跪稳，调好支撑垫。",
+      "保持骨盆稳定，将训练侧腿向后伸展。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "不要通过大幅拱腰或转身增加后踢幅度。",
+    "demoAsset": "OPqShYN.gif",
+    "demoSource": "Machine Hip Extension",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_cable_kickback",
+    "name": "龙门架后踢",
+    "group": "臀",
+    "pattern": "后踢",
+    "difficulty": "一般",
+    "equipment": "龙门架 / 脚踝绑带",
+    "description": "龙门架后踢是臀分类中的后踢动作，使用龙门架 / 脚踝绑带完成。",
+    "steps": [
+      "低位滑轮接好脚踝绑带，扶稳支架。",
+      "骨盆保持稳定，将训练侧腿向后伸展。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "动作幅度以稳定为先，不用腰部反弓代偿。",
+    "demoAsset": "Kpajagk.gif",
+    "demoSource": "cable standing hip extension",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_smith_kickback",
+    "name": "史密斯后踢",
+    "group": "臀",
+    "pattern": "后踢",
+    "difficulty": "困难",
+    "equipment": "史密斯机",
+    "description": "史密斯后踢是臀分类中的后踢动作，使用史密斯机完成。",
+    "steps": [
+      "先确认器械允许该用法，设置限位并稳固支撑。",
+      "在可控范围内向后上方蹬动器械。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "对器械和保护要求较高；不熟悉时可选后踢专用器械。",
+    "demoAsset": "",
+    "demoSource": "",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_reverse_hack_squat",
+    "name": "哈克机反站立",
+    "group": "臀",
+    "pattern": "髋主导",
+    "difficulty": "一般",
+    "equipment": "哈克深蹲机",
+    "description": "哈克机反站立是臀分类中的髋主导动作，使用哈克深蹲机完成。",
+    "steps": [
+      "确认器械允许反向站立，调整脚位和肩部支撑。",
+      "保持支撑，控制屈髋屈膝下降后站起。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "遵循器械使用要求，先设置保险和安全限位。",
+    "demoAsset": "",
+    "demoSource": "",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_machine_abduction",
+    "name": "器械髋外展",
+    "group": "臀",
+    "pattern": "髋外展",
+    "difficulty": "容易",
+    "equipment": "髋外展机",
+    "description": "器械髋外展是臀分类中的髋外展动作，使用髋外展机完成。",
+    "steps": [
+      "坐稳并调好起始角度，大腿外侧贴住支撑垫。",
+      "向两侧打开双腿，再控制回收。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持骨盆与躯干稳定，不用弹震完成动作。",
+    "demoAsset": "CHpahtl.gif",
+    "demoSource": "Machine Seated Hip Abduction",
+    "media": null,
+    "hidden": false
+  },
+  {
+    "id": "builtin_bodyweight_bridge",
+    "name": "徒手臀桥",
+    "group": "臀",
+    "pattern": "臀桥",
+    "difficulty": "容易",
+    "equipment": "垫子",
+    "description": "徒手臀桥是臀分类中的臀桥动作，使用垫子完成。",
+    "steps": [
+      "仰卧屈膝，双脚踩实，双臂自然放在身体两侧。",
+      "通过伸髋抬起骨盆，再控制回落。",
+      "在可控范围内缓慢回到起始位置，保持动作稳定。"
+    ],
+    "tips": "保持肋骨和骨盆稳定，不用腰部过伸增加高度。",
+    "demoAsset": "u0cNiij.gif",
+    "demoSource": "low glute bridge on floor",
+    "media": null,
+    "hidden": false
+  }
+]

@@ -1,0 +1,52 @@
+# Local Android / Java / emulator tools and all private app backups
+/.tools/
+/local.properties
+
+# Gradle, Kotlin and build outputs
+.gradle/
+.kotlin/
+**/build/
+/dist/
+/ci-output/
+/captures/
+/docs/screenshots/
+*.apk
+*.aab
+*.apks
+*.idsig
+*.hprof
+
+# Signing material and local credentials (never commit these)
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+/keystore.properties
+/signing.properties
+
+# App databases, exported backups, logs and temporary files
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.zip
+*.tar
+*.tar.*
+*.log
+*.tmp
+__pycache__/
+*.py[cod]
+
+# Editor and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini

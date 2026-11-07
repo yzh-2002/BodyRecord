@@ -1,0 +1,14 @@
+Exercise demonstrations: ExerciseDB V1 / AscendAPI.
+Official source: https://oss.exercisedb.dev/api/v1/exercises
+Documentation and use restrictions: https://oss.exercisedb.dev/docs
+
+This personal, non-commercial prototype bundles selected 180px GIF
+demonstrations from the free V1 API for offline viewing, with attribution.
+No commercial-use license is granted by this application. The imagery remains
+subject to the original providers' rights and the source's usage conditions.
+
+Downloaded and visually reviewed: 2026-11-07.
+Selected source URLs and SHA-256 checksums: docs/exercise-media-manifest.json.
+Chinese descriptions are app-authored; muscle groupings and difficulty defaults
+are based on the user's supplied reference images, with additional labels for
+ungraded variants. Difficulty labels can be edited in the app.
